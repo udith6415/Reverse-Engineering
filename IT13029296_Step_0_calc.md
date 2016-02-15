@@ -3,7 +3,7 @@
  <b>XN Resource Editor</b> 
 >>Prerequisites
 >
->> * [XN Resource Editor]([https://sourceforge.net/projects/xnreseditpe/](https://sourceforge.net/projects/xnreseditpe/)) /
+>> * [XN Resource Editor]([https://sourceforge.net/projects/xnreseditpe/](https://sourceforge.net/projects/xnreseditpe/))
 >
 >> * A simple executable. I am using <b>"calc.exe"</b> ehich is located in the "<b>C:\Windows\System32\calc.exe</b>.
 
