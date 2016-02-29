@@ -9,4 +9,4 @@
 
 1. Open the XN Resource editor.
 2. Goto Tools -> Open -> select the calc.exe from the C:\Windows\System32 directory and click Open.
-3. Now you can see that the cac
+3. Now you can some folders such as 
